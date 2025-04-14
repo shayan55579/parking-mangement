@@ -1,6 +1,6 @@
 **Build the Project**
 ```bash
-npm install moment-jalaali @fontsource/vazir
+npm create vite@latest
 ```
 **🚀Install Required Dependencies**
 ```bash
