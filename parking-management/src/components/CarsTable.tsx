@@ -1,6 +1,6 @@
 // src/components/CarsTable.tsx
 import React from "react";
-import { Car } from "../types/Car";
+import { Car } from "../types/car";
 
 interface CarsTableProps {
   cars: Car[];
